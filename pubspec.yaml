@@ -1,7 +1,7 @@
 name: emoji_rating_bar
 description: Smooth animated rating bar for customer and service feedback, equipped with customizable emotion and mood bars with emoji.
 version: 0.0.1
-homepage:
+homepage: https://github.com/KinjalDhamat312/EmojiRatingBar
 
 environment:
   sdk: '>=2.19.2 <3.0.0'
