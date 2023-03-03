@@ -36,12 +36,3 @@ const ColorFilter greyscale = ColorFilter.matrix(<double>[
   1,
   0,
 ]);
-
-ColorFilter getColorFilter(Color color) {
-  double red = color.red / 255.0;
-  double green = color.green / 255.0;
-  double blue = color.blue / 255.0;
-  List<double> colorMatrix = <double>[    red, 0, 0, 0, 0,    0, green, 0, 0, 0,    0, 0, blue, 0, 0,    0, 0, 0, 1, 0  ];
-
-  return ColorFilter.matrix(colorMatrix);
-}
