@@ -15,13 +15,16 @@ dependencies:
 ```
 
 ## Feedback Rating Bar
-https://user-images.githubusercontent.com/25680329/222731120-c3859b46-fcc8-4c14-9ae8-d5ef286a15d0.mp4
+![service_feedback](https://user-images.githubusercontent.com/25680329/222745333-f2438102-7ffa-4d24-ab2c-7f85723f04f3.gif)
+
 ```
 EmojiRatingBar()
 ```
 
 ## Mood Rating Bar
-https://user-images.githubusercontent.com/25680329/222731313-cd295931-ba12-46b4-9617-3a5b63b71485.mp4
+![moodbar](https://user-images.githubusercontent.com/25680329/222745105-ce228e0d-1928-4b42-9fae-f3beabefe6e9.gif)
+
+
 ```
 EmojiRatingBar(
   ratingBarType: RatingBarType.mood
