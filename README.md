@@ -54,7 +54,7 @@ EmojiRatingBar(
     color: Colors.black,
     fontSize: 12,
   ),
-  animationDuration: Duration(milliseconds: 500),
+  animationDuration: Duration(milliseconds: 100),
   animationCurve: Curves.easeInOut,
   ratingBarType: RatingBarType.feedback,
   applyColorFilter : true 
